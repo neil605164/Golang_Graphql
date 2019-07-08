@@ -1,0 +1,1 @@
+Practice Gin + Graphql
